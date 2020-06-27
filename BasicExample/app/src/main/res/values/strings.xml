@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Basic Example</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_smartcard">Smartcard</string>
+    <string name="title_biometry">Biometry</string>
+
+    <string name="capture">Capture</string>
+    <string name="iv_fingerprint_desc">Captured fingerprint image</string>
+    <string name="place_finger_on_reader">Place your finger on the reader</string>
+    <string name="fingerprint_capture_fail">Failed to capture fingerprint image!</string>
+
+    <string name="no_device_connected">No Tactivo compliant device connected!</string>
+    <string name="di_bootloader_revision">Bootloader Revision</string>
+    <string name="di_firmware_revision">Firmware Revision</string>
+    <string name="di_model_number">Model Number</string>
+    <string name="di_model">Model</string>
+    <string name="di_pca_revision">PCA Revision</string>
+    <string name="di_serial_number">Serial Number</string>
+
+    <string name="successfully_connected">Successfully connected to Tactivo device</string>
+
+    <string name="insert_card">Please insert a card</string>
+    <string name="atr">ATR: %1$s</string>
+    <string name="instant_capturing">Instant Capturing</string>
+
+    <string name="tap_to_read_card">Tap to read card!</string>
+    <string name="tap_to_retry">Tap to retry!</string>
+
+</resources>
